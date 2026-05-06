@@ -1,0 +1,9 @@
+{
+  "frameworkHost": "127.0.0.1",
+  "frameworkPort": 4000,
+  "frameworkToken": "",
+  "rev_host": "0.0.0.0",
+  "rev_port": 3000,
+  "rev_token": "",
+  "refresh_config_interval": 60
+}
